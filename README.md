@@ -193,11 +193,12 @@ participants <- trials %>% distinct(participant_id, age_range, gender, ...)
 
 ## Contact & Notes
 
-- **Study staff**: Nicolas Savino & S. Emre Kuraner
+- **Study staff**: Nicolas Savino & S. Emre Kuraner (under menotoring by faculty)
 - **Data privacy**: All data handling complies with HIPAA protocols
-- **IRB**: Study approved by IRB; protocols available to study staff and reviewers only
+- **IRB**: Study sent to Fordham IRB; protocols available to study staff and reviewers only
 
 ---
 
 **Last Updated**: November 2025
 **Status**: Ready for pilot testing with simulated data
+
